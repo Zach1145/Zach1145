@@ -9,11 +9,13 @@
 Hi, Im Zach an aspiring software engineer with foundations in Java, Javascript, Python, and SQL.
 <details>
 <summary>My top languages</summary>
-| Rank |   Languages   |
-|----- |---------------|
-|     1| Java          |
-|     2| Python        |
-|     3| SQL           |
+  
+| Rank | Language |
+|------|----------|
+| 1    | Java     |
+| 2    | Python   |
+| 3    | SQL      |
+  
 </details>
 
 <!--
